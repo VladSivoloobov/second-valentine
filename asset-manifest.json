@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.18ef4ce2.css",
+    "main.js": "./static/js/main.b35d8cff.js",
+    "static/media/Vector Smart Object (Double Click to Edit).png": "./static/media/Vector Smart Object (Double Click to Edit).3e4ffa5921386eaf9c80.png",
+    "static/media/ofont.ru_Patsy Sans.otf": "./static/media/ofont.ru_Patsy Sans.ebe0863a834f5d17230f.otf",
+    "static/media/Shape.png": "./static/media/Shape.f7dbe17c6181fcc92e0b.png",
+    "static/media/Shape 3.png": "./static/media/Shape 3.362c70c4f1293be5da43.png",
+    "index.html": "./index.html",
+    "main.18ef4ce2.css.map": "./static/css/main.18ef4ce2.css.map",
+    "main.b35d8cff.js.map": "./static/js/main.b35d8cff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18ef4ce2.css",
+    "static/js/main.b35d8cff.js"
+  ]
+}
